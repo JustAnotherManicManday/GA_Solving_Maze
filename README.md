@@ -11,4 +11,6 @@
 # And I also used Orestis Zekai's implementation of the Randomized Prim Algorithm to generate random mazes, https://github.com/OrWestSide/python-scripts/blob/master/maze.py
 # So big thankyou's for their work!
 
+# I wrote a blog post going all over this program, so please check that out if it interests you - www.justintopfer.com
+
 
